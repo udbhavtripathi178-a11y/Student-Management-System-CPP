@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program online
+//the student database including add, delete, update, search and display all students
 #include <iostream>
 using namespace std;
 struct student {
